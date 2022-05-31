@@ -1,0 +1,48 @@
+.nav-spacing {
+    margin: 0 0 0 5px;
+    text-decoration: none; color: rgb(33, 33, 255);
+  }
+  .nav-decoration {
+    text-decoration: none; color: rgb(33, 33, 255);
+  }
+  .nav-menu {
+    text-align: right;
+  }
+
+  .image-link {
+    text-decoration: none;
+  }
+
+  .table-pad {
+    padding: 10px;
+  }
+
+  .image-spacing {
+    display: block; margin: 0 auto;
+  }
+
+  .main-text {
+    text-align: left; background-color: bisque; 
+    padding: 10px; width: 500px; margin: 20px auto;
+    }
+
+  .whale-text {
+    color: rgb(10, 161, 111); font-size: 25px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .dolphin-text {
+    color: rgb(0, 50, 78); font-size: 25px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .blockquote-text {
+    font-style: italic; font-size: 16px;"
+  }
+
+  .div-greybox {
+    width: 500px; margin: 0 auto; 
+    padding: 10px 30px; background-color: #e9e7e7;
+  }
+
+  .header1 {
+    text-align: center; margin: 0 0 80px; 
+  }
